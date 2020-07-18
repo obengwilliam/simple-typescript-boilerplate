@@ -1,6 +1,6 @@
-#Typscript Boilerplate
+# Typscript Boilerplate
 
-##Tooling
+## Tooling
 `husky`
 
 `typescript`
