@@ -1,31 +1,32 @@
-Typscript Boilerplate
-Tooling
-husky
+#Typscript Boilerplate
 
-typescript
+##Tooling
+`husky`
 
-eslint
+`typescript`
 
-prettier
+`eslint`
 
-lint-staged
+ `prettier`
 
-standard
+`lint-staged`
 
-ts-node
+`standard`
 
-Usage
+`ts-node`
+
+## Usage
 npm install degit
 
 degit https://github.com/obengwilliam/simple-typescript-boilerplate/
 
 npm install
 
-Npm Scripts
-build - Compiles code to dist folder
+## Npm Scripts
+`build` - Compiles code to dist folder
 
-lint - Lint all ts files
+`lint` - Lint all ts files
 
-start - Start app by running src/index.ts and watching all ts files for changes
+`start` - Start app by running src/index.ts and watching all ts files for changes
 
-lint:fix - Fix all errors with issues
+`lint:fix` - Fix all errors with issues
